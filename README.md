@@ -11,7 +11,7 @@ I enjoy creating reusable components, consuming REST APIs and building responsiv
 * **Frontend:** Angular, React, JavaScript, TypeScript
 * **Web:** HTML5, CSS3, Tailwind CSS
 * **Reactive programming:** RxJS
-* **Tools:** Git, GitHub
+* **Tools:** Git, GitHub, Azure, AWS
 * **APIs:** REST APIs
 
 ### Currently learning
