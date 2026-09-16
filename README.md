@@ -1,4 +1,4 @@
-# Hi 👋, I'm Angie Tatiana
+# Hi, I'm Angie Tatiana
 
 ### Frontend Developer | Angular · React · JavaScript
 
@@ -6,7 +6,7 @@ I'm a Frontend Developer with experience building web applications using **Angul
 
 I enjoy creating reusable components, consuming REST APIs and building responsive user interfaces with a focus on clean and maintainable code.
 
-### 💻 Technologies
+### Technologies
 
 * **Frontend:** Angular, React, JavaScript, TypeScript
 * **Web:** HTML5, CSS3, Tailwind CSS
@@ -14,7 +14,7 @@ I enjoy creating reusable components, consuming REST APIs and building responsiv
 * **Tools:** Git, GitHub
 * **APIs:** REST APIs
 
-### 🚀 Currently learning
+### Currently learning
 
 I'm expanding my frontend experience toward full-stack development, currently focusing on:
 
@@ -24,7 +24,7 @@ I'm expanding my frontend experience toward full-stack development, currently fo
 * Databases
 * Full-stack application architecture
 
-### 📂 Featured Projects
+###  Featured Projects
 
 Coming soon:
 
@@ -33,7 +33,7 @@ Coming soon:
 * JavaScript logic challenges
 * Node.js REST API
 
-### 🎯 Career Focus
+### Career Focus
 
 **Frontend Development → Full-Stack Development**
 
