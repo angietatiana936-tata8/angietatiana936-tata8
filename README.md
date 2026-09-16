@@ -12,7 +12,7 @@ I enjoy creating reusable components, consuming REST APIs and building responsiv
 * **Web:** HTML5, CSS3, Tailwind CSS
 * **Reactive programming:** RxJS
 * **Tools:** Git, GitHub, Azure, AWS
-* **APIs:** REST APIs
+* **APIs:** REST APIs, GraphQL
 
 ### Currently learning
 
